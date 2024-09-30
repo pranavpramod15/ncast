@@ -1,0 +1,82 @@
+{
+  "signInButton": "Sign In",
+  "@signInButton": {
+    "type":"text"
+  },
+  "signUpButton": "Sign up",
+  "@signUpButton": {
+    "type":"text"
+  },
+  "onboardingCaptionTitleText": "Listen to your\nfavourite podcast",
+   "@onboardingCaptionText": {
+    "type":"text"
+  },
+   "onboardingCaptionDescriptionText": "More than 1000+ best talks ever",
+   "@onboardingCaptionDescriptionText": {
+    "type":"text"
+  },
+"sectionPromotedPodcasts": "Promoted Podcasts",
+   "@sectionPromotedPodcasts": {
+    "type":"text"
+  },
+  "sectionTrendingPodcasts": "Trending Podcasts",
+  "@sectionTrendingPodcasts":{
+    "type":"text"
+  },
+  "sectionTodaysTopFive": "Today's Top 5 Podcasts",
+  "@sectionTodaysTopFive":{
+    "type":"text"
+  },
+  "sectionContinueListening": "Continue Listening",
+  "@sectionContinueListening":{
+     "type":"text"
+  },
+  "sectionTopCategories": "Top Categories",
+  "@sectionTopCategories":{
+     "type":"text"
+  },
+  "hintTextSearchBar": "Search the podcast here..",
+  "@hintTextSearchBar":{
+     "type":"text"
+  },
+  "categoryMotivation":"Motivation",
+  "@categoryMotivation":{
+    "type":"text"
+  },
+  "categoryLifestyle":"Lifestyle",
+  "@categoryLifestyle":{
+    "type":"text"
+  },
+   "categoryBusiness":"Business",
+  "@categoryBusiness":{
+    "type":"text"
+  },
+  "sectionFavouritePodcasts":"Favourite Podcasts",
+  "@sectionFavouritePodcasts":{
+       "type":"text"
+  },
+  "likedPodcastsCount":"22",
+  "@likedPodcastsCount":{
+    "type":"text"
+  },
+  "titleLikedPodcasts":"Liked Podcasts",
+  "@titleLikedPodcasts":{
+    "type":"text"
+  },
+   "followerCount":"158",
+  "@followerCount":{
+    "type":"text"
+  },
+  "titleFollowing":"following",
+  "@titleFollowing":{
+    "type":"text"
+  },
+  "sectionRecentlyPlayed": "Recently Played",
+  "@sectionRecentlyPlayed":{
+     "type":"text"
+  },
+  "userName":"Naveen Prasath",
+  "@userName":{
+      "type":"text"
+  }
+}
